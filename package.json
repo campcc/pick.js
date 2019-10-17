@@ -1,0 +1,33 @@
+{
+  "name": "pick.js",
+  "version": "1.0.0",
+  "description": "Utility function to create a shallow copy of an object which is composed of the picked object properties.",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "scripts": {
+		"test": "jest",
+		"build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campcc/pick.js.git"
+  },
+  "keywords": [
+    "object",
+    "pick"
+  ],
+  "author": "campcc <1210131782@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/campcc/pick.js/issues"
+  },
+  "homepage": "https://github.com/campcc/pick.js#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
