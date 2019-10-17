@@ -1,4 +1,4 @@
-# Pick.js
+# pick.js
 
 Utility function to create a shallow copy of an object which is composed of the picked object properties.
 
