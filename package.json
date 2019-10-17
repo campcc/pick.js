@@ -1,9 +1,8 @@
 {
   "name": "pick.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility function to create a shallow copy of an object which is composed of the picked object properties.",
   "main": "lib/index.js",
-  "module": "es/index.js",
   "scripts": {
 		"test": "jest",
 		"build": "webpack"
