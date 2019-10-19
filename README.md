@@ -1,5 +1,7 @@
 # pick.js
 
+![Travis (.com)](https://img.shields.io/travis/com/campcc/pick.js)
+![npm](https://img.shields.io/npm/v/pick.js)
 ![npm](https://img.shields.io/npm/dm/pick.js)
 
 Utility function to create a shallow copy of an object which is composed of the picked object properties.
