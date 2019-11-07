@@ -1,6 +1,6 @@
 # pick.js
 
-![Travis (.com)](https://img.shields.io/travis/com/campcc/pick.js)
+[![Build Status](https://travis-ci.org/campcc/pick.js.svg?branch=master)](https://travis-ci.org/campcc/pick.js)
 ![npm](https://img.shields.io/npm/v/pick.js)
 ![npm](https://img.shields.io/npm/dm/pick.js)
 
